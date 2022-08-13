@@ -7,7 +7,7 @@ def get_movie_list():
     return movie_list
 
 def print_menu():
-    print('COMMAND LINE')
+    print('COMMAND MENU')
     print('list -   List all movies')
     print('add -    Add a movie')
     print('del -    Delete a movie')
